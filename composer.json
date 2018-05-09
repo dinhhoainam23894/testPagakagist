@@ -1,0 +1,11 @@
+{
+    "name": "lego/pagekagist",
+    "description": "nam dz vl",
+    "authors": [
+        {
+            "name": "lego",
+            "email": "dinhhoainam94@gmail.com"
+        }
+    ],
+    "require": {}
+}
